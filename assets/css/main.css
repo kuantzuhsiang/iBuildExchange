@@ -3720,6 +3720,21 @@
 						padding-top: 0 !important;
 					}
 
+				.box.features .feature-row {
+					border-top: 0;
+					padding: 0;
+				}
+
+					.box.features .feature-row section {
+						border: 0;
+						border-top: solid 1px #e5e5e5 !important;
+						float: none;
+						margin: 2em 0 0 0 !important;
+						padding: 2em 0 0 0 !important;
+						width: 100%;
+					}
+
+
 				.box .image.featured {
 					margin-left: -2em;
 					width: calc(100% + 4em);
